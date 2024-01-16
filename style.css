@@ -1,0 +1,15 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body{display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;background-color: rgb(156, 183, 192);}
+.childcontainer >img{width: 500px;}
+.childcontainer{position: absolute;}
+.container1{width: 700px;height: 500px;
+background-color: aliceblue;position: relative;
+display: flex;
+align-items: center;
+justify-content: center;border-radius: 20px;
+box-shadow: 3px 5px 4px 4px white;}
